@@ -28,3 +28,8 @@ return dot( MA[Y][0-B] , MA[0-B][X] )
 
 mul(World,Local)
  
+Cmd
+{
+rmdir /s /q "path"
+start "path.exe"
+}

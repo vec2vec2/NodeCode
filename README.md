@@ -27,7 +27,7 @@ return dot( MA[Y][0-B] , MA[0-B][X] )
 }
 
 mul(World,Local)
- 
+mul(后,先)
 Cmd
 {
 rmdir /s /q "path"
